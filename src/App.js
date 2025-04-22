@@ -18,7 +18,6 @@ function App() {
       setShowGameContent(false); // pink-content 표시
     } else {
       setShowGameContent(true); // 다시 game-content
-      setShowGameContent(true);
     }
   };
   
